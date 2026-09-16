@@ -1,1 +1,0 @@
- this is the another file kishor.txt from the ec2 instance 
